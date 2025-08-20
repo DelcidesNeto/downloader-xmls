@@ -1,0 +1,143 @@
+func main T1
+func main T4
+func main T5
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3
+func Fazer Pesquisa T4
+func Fazer Pesquisa T5
+func Fazer Pesquisa T6
+func Fazer Pesquisa T7
+func Fazer Pesquisa T8
+func Fazer Pesquisa T9
+func Fazer Pesquisa T10
+func Fazer Pesquisa T11
+func Fazer Pesquisa T12
+func Fazer Pesquisa T13
+func Fazer Pesquisa T14
+func Fazer Pesquisa T15
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa Caiu no 1 if, tentando clicar realizar cliques
+func Fazer Pesquisa Caiu no 1 if, conseguiu realizar cliques
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3
+func Fazer Pesquisa T4
+func Fazer Pesquisa T5
+func Fazer Pesquisa T6
+func Fazer Pesquisa T7
+func Fazer Pesquisa T8
+func Fazer Pesquisa T9
+func Fazer Pesquisa T10
+func Fazer Pesquisa T11
+func Fazer Pesquisa T12
+func Fazer Pesquisa T13
+func Fazer Pesquisa T14
+func Fazer Pesquisa T15
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa Caiu no 1 if, tentando clicar realizar cliques
+func Fazer Pesquisa Caiu no 1 if, conseguiu realizar cliques
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3
+func Fazer Pesquisa T4
+func Fazer Pesquisa T5
+func Fazer Pesquisa T6
+func Fazer Pesquisa T7
+func Fazer Pesquisa T8
+func Fazer Pesquisa T9
+func Fazer Pesquisa T10
+func Fazer Pesquisa T11
+func Fazer Pesquisa T12
+func Fazer Pesquisa T13
+func Fazer Pesquisa T14
+func Fazer Pesquisa T15
+func main T1
+func main T2
+func main try T1
+func main try T1 ok!
+func main T3
+func main T4
+func main T5
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3
+func Fazer Pesquisa T4
+func Fazer Pesquisa T5
+func Fazer Pesquisa T6
+func Fazer Pesquisa T7
+func Fazer Pesquisa T8
+func Fazer Pesquisa T9
+func Fazer Pesquisa T10
+func Fazer Pesquisa T11
+func Fazer Pesquisa T12
+func Fazer Pesquisa T13
+func Fazer Pesquisa T14
+func Fazer Pesquisa T15
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa Caiu no 1 if, tentando clicar realizar cliques
+func Fazer Pesquisa Caiu no 1 if, conseguiu realizar cliques
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3
+func Fazer Pesquisa T4
+func Fazer Pesquisa T5
+func Fazer Pesquisa T6
+func Fazer Pesquisa T7
+func Fazer Pesquisa T8
+func Fazer Pesquisa T9
+func Fazer Pesquisa T10
+func Fazer Pesquisa T11
+func Fazer Pesquisa T12
+func Fazer Pesquisa T13
+func Fazer Pesquisa T14
+func Fazer Pesquisa T15
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa Caiu no 1 if, tentando clicar realizar cliques
+func Fazer Pesquisa Caiu no 1 if, conseguiu realizar cliques
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3
+func Fazer Pesquisa T4
+func Fazer Pesquisa T5
+func Fazer Pesquisa T6
+func Fazer Pesquisa T7
+func Fazer Pesquisa T8
+func Fazer Pesquisa T9
+func Fazer Pesquisa T10
+func Fazer Pesquisa T11
+func Fazer Pesquisa T12
+func Fazer Pesquisa T13
+func Fazer Pesquisa T14
+func Fazer Pesquisa T15
+func main T1
+func main T2
+func main try T1
+func main try T1 ok!
+func main T3
+func main T4
+func main T5
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3
+func Fazer Pesquisa T4
+func Fazer Pesquisa T5
+func Fazer Pesquisa T6
+func Fazer Pesquisa T7
+func Fazer Pesquisa T8
+func Fazer Pesquisa T9
+func Fazer Pesquisa T10
+func Fazer Pesquisa T11
+func Fazer Pesquisa T12
+func Fazer Pesquisa T13
+func Fazer Pesquisa T14
+func Fazer Pesquisa T15
+Entrou na func Fazer Pesquisa
+func Fazer Pesquisa Caiu no 1 if, tentando clicar realizar cliques
+func Fazer Pesquisa Caiu no 1 if, conseguiu realizar cliques
+func Fazer Pesquisa T1
+func Fazer Pesquisa T2
+func Fazer Pesquisa T3

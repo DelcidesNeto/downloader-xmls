@@ -1,0 +1,2 @@
+23/07/2025 18:03:19 - Erro ao pesquisar a data 01/2024, mês sem resultados para o CNPJ 32227646000100!
+23/07/2025 18:03:27 - Erro ao pesquisar a data 02/2024, mês sem resultados para o CNPJ 32227646000100!
